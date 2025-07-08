@@ -1,4 +1,4 @@
-# Skype for Business Deployment via Microsoft Endpoint Configuration Manager
+# Deploying Skype via Microsoft Endpoint Configuration Manager (formerly SCCM)
 
 ![AltText](sccm.avif)
 
