@@ -1,13 +1,13 @@
-# 📦 Skype for Business Deployment via Microsoft Endpoint Configuration Manager
+# Skype for Business Deployment via Microsoft Endpoint Configuration Manager
 
+![AltText](sccm.avif)
 
-
-## 📘 Overview
+## Overview
 This guide documents the step-by-step process for creating and deploying **Skype for Business** using **Microsoft Endpoint Configuration Manager** (formerly SCCM). The deployment targets users across a network environment by leveraging an MSI installer, setting up deployment configurations, and validating installation via client systems.
 
 ---
 
-## 🛠️ Step-by-Step Process
+## Step-by-Step Process
 
 ### 1. Preparing the Installation Files
 - Located the Skype for Business MSI installer:  
