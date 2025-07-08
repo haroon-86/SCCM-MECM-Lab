@@ -69,9 +69,11 @@ This guide documents the step-by-step process for creating and deploying **Skype
 - **Version:** 8.92  
 - **Comments:** "This is Skype for Business"
 
-![Figure 2.3: Application Configuration](2.3%20Create%20Application.png
+![Figure 2.3: Application Configuration](2.3%20Create%20Application.png)
 
 ![Configuration Manager Deployment](4.%20Configuration%20Manager.png)
+
+![Skype Installed](5.%20Skype%20Installed.png)
 
 #### Installation Command:
 ```bash
